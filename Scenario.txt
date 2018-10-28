@@ -1,0 +1,1 @@
+This is a composite design pattern in java. The scenarion is the hierarchy of a working place shown by this pattern.
